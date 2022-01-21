@@ -1,5 +1,5 @@
-;Qd=Qs (jumlah minyak goreng sawit);harga minyak goreng kelapa;harga minyak goreng sawit;pendapatan nasional;harga CPO;trend
-TH;Q;S;P;I;R;T
+;;;;;;
+;;;;;;
 tahun;kuantitas;harga_minyak_kelapa;harga_minyak_sawit;pendapatan;harga_CPO;trend
 1980;297;1353;4430;58701;2252;0
 1981;326;1171;4632;63486;2283;1
